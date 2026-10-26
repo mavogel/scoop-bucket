@@ -1,0 +1,22 @@
+{
+    "version": "0.5.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mavogel/kirokit/releases/download/v0.5.0/kirokit_0.5.0_windows_amd64.zip",
+            "bin": [
+                "kirokit.exe"
+            ],
+            "hash": "7f4391ae4ac617d023cba867951bebe9420470cb7a27fcb1a9fa4b6d21823c5d"
+        },
+        "arm64": {
+            "url": "https://github.com/mavogel/kirokit/releases/download/v0.5.0/kirokit_0.5.0_windows_arm64.zip",
+            "bin": [
+                "kirokit.exe"
+            ],
+            "hash": "56ae23e695500576db724b313f404b696c43195c3ffbd9726441979bae8c18d9"
+        }
+    },
+    "homepage": "https://github.com/mavogel/kirokit",
+    "license": "Apache-2.0",
+    "description": "Render, test, and install multi-team Kiro CLI v3 configs"
+}
