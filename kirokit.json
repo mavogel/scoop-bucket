@@ -1,19 +1,19 @@
 {
-    "version": "0.7.0",
+    "version": "0.8.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mavogel/kirokit/releases/download/v0.7.0/kirokit_0.7.0_windows_amd64.zip",
+            "url": "https://github.com/mavogel/kirokit/releases/download/v0.8.0/kirokit_0.8.0_windows_amd64.zip",
             "bin": [
                 "kirokit.exe"
             ],
-            "hash": "03fef4c964e5aa0e7308856528b16db2c2be8a08b62d779b1ae8bfb50db563ab"
+            "hash": "85c9b7753cbfc8c55615313a2a39f2a36bb66e41510d3a7edb5d7de422225f7e"
         },
         "arm64": {
-            "url": "https://github.com/mavogel/kirokit/releases/download/v0.7.0/kirokit_0.7.0_windows_arm64.zip",
+            "url": "https://github.com/mavogel/kirokit/releases/download/v0.8.0/kirokit_0.8.0_windows_arm64.zip",
             "bin": [
                 "kirokit.exe"
             ],
-            "hash": "7884f1a4e6d079cda8ea178accc37922f9f5672ed5fc948b3feb10fc606c4d3f"
+            "hash": "022f1a79945f84819e69866c292788ca02d1380c63665f5d710004542dfce7d9"
         }
     },
     "homepage": "https://github.com/mavogel/kirokit",
